@@ -1,10 +1,11 @@
-# E-commerce Interface 
-
+# E-commerce Interface
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 This is a web project focusing on sample e-commerce view built with **React** as NewMind AI Fullstack Bootcamp task.
 
 You can find a version of built with **pure JavaScript** [here](https://github.com/Chessfull/SampleECommerceSite).
+
+________________________________________________________________________________________________________________________
 
 Let's dive a little deeper together with keywords 🚀 You can fetch my project if you need these structures below ❤️
 
