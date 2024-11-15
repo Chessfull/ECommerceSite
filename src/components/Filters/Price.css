@@ -1,0 +1,12 @@
+.filter-checkboxes.price-range {
+    margin: 20px 10px 5px 1px;
+    gap: 15px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+  }
+
+h3 {
+    text-align: center;
+    margin: 0;
+  }

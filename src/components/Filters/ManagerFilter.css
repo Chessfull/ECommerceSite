@@ -1,0 +1,27 @@
+.container-filter-products {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    overflow: auto;
+  }
+  
+  .filter-checkboxes {
+    margin: 20px 10px 5px 1px;
+    gap: 15px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .filter-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 700px;
+    border: 2px solid #ffa500;
+    margin: 20px 15px 15px 15px;
+    background-color: antiquewhite;
+    font-size: 17px;
+  }
+  
+  

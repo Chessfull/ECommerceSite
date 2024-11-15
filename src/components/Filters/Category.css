@@ -1,0 +1,20 @@
+.filter-checkboxes.category {
+  margin: 20px 10px 5px 1px;
+  gap: 15px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.fa.fa-star.checked {
+  color: #ffa500;
+}
+
+.fa.fa-star {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  margin: 0;
+}
