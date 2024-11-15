@@ -1,8 +1,34 @@
-# React + Vite
+# E-commerce Interface 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Currently, two official plugins are available:
+This is a web project focusing on sample e-commerce view built with **React** as NewMind AI Fullstack Bootcamp task.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can find a version of built with **pure** **JavaScript** here.
+
+Let's dive a little deeper together with keywords 🚀 You can fetch my project if you need these structures below ❤️
+
+User part -> Users can filter products, adding products to cart and then able to view cart products and counts as modal.
+
+Admin part -> Admins can edit or delete products through pop-up modals.
+
+Products -> Dynamic review with pure CSS.
+________________________________________________________________________________________________________________________
+
+**You can watch demo of project below** 
+
+https://github.com/user-attachments/assets/efc0988b-4a94-4514-8b7b-ebf98bf60e36
+________________________________________________________________________________________________________________________
+
+# :incoming_envelope: Contact Information :incoming_envelope:
+
+For any questions or further information, please don't hesitate to contact me :pray:
+
+Email: merttopcu.dev@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mert-topcu/
+
+Happy Coding ❤️
+   
+
+
