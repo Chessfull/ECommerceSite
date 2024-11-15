@@ -4,7 +4,7 @@
 
 This is a web project focusing on sample e-commerce view built with **React** as NewMind AI Fullstack Bootcamp task.
 
-You can find a version of built with **pure** **JavaScript** here.
+You can find a version of built with **pure** **JavaScript** [here](https://github.com/Chessfull/SampleECommerceSite).
 
 Let's dive a little deeper together with keywords 🚀 You can fetch my project if you need these structures below ❤️
 
